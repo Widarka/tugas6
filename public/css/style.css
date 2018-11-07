@@ -1,0 +1,9 @@
+
+body{
+       -webkit-background: 100% 100%;
+       background: radial-gradient(lightblue, white); /* Standard syntax */
+       position: relative;
+       background-size: 100% 100%;
+       background-repeat: no-repeat ;
+       background: fixed;
+}
